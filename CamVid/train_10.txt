@@ -1,0 +1,11 @@
+img,label
+CamVid/701_StillsRaw_full/0001TP_006930.png,CamVid/Labeled_idx/0001TP_006930_L.png.npy
+CamVid/701_StillsRaw_full/0016E5_08001.png,CamVid/Labeled_idx/0016E5_08001_L.png.npy
+CamVid/701_StillsRaw_full/0006R0_f01290.png,CamVid/Labeled_idx/0006R0_f01290_L.png.npy
+CamVid/701_StillsRaw_full/Seq05VD_f04830.png,CamVid/Labeled_idx/Seq05VD_f04830_L.png.npy
+CamVid/701_StillsRaw_full/0016E5_08109.png,CamVid/Labeled_idx/0016E5_08109_L.png.npy
+CamVid/701_StillsRaw_full/0006R0_f02460.png,CamVid/Labeled_idx/0006R0_f02460_L.png.npy
+CamVid/701_StillsRaw_full/0001TP_008340.png,CamVid/Labeled_idx/0001TP_008340_L.png.npy
+CamVid/701_StillsRaw_full/Seq05VD_f00780.png,CamVid/Labeled_idx/Seq05VD_f00780_L.png.npy
+CamVid/701_StillsRaw_full/0006R0_f01470.png,CamVid/Labeled_idx/0006R0_f01470_L.png.npy
+CamVid/701_StillsRaw_full/0006R0_f03900.png,CamVid/Labeled_idx/0006R0_f03900_L.png.npy
