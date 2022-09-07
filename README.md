@@ -1,4 +1,4 @@
-# Semantic image segmentation for traffic scene understanding
+# Semantic Segmentation for Traffic Scene Understanding
  
 **General:**
 <br>
